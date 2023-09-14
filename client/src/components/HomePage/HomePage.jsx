@@ -4,7 +4,7 @@ const HomePage = () =>{
         <div>
             {/* Searchbar */}
             <input type="text"/>
-            <button>Submit</button>
+            <button>Search</button>
             <hr />
             <div className='main-space'>
                 <p>Todos los copemones de a 12</p>
